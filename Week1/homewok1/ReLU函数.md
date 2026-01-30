@@ -317,4 +317,3 @@ Swish的硬件友好版，用分段线性函数近似Swish的sigmoid门控，在
 ### 适用场景
 
 移动端量化CNN（如MobileNetV3）、边缘设备计算机视觉任务、轻量化Transformer。
-> （注：文档部分内容可能由 AI 生成）
